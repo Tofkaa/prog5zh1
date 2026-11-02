@@ -1,0 +1,22 @@
+# Only the five practice projects belong to this repository.
+/*
+!/.gitignore
+!/README.md
+!/zhgyak1/
+!/zhgyak2/
+!/zhgyakMAGAMTOL/
+!/zhgyak3-konyvtar/
+!/zhgyak4-eszkozok/
+
+# Build output, generated frontend, IDE files and local backups.
+**/target/
+**/build/
+**/dist/
+**/node_modules/
+**/src/main/frontend/generated/
+**/.idea/
+**/.vscode/
+*.log
+*.orig
+*.bak
+*.tmp
